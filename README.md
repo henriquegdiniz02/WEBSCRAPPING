@@ -38,9 +38,8 @@ democracia-comunicacao-digital/
 ├── src/
 │   ├── ibge_populacao.py          # Coleta de municípios via API do IBGE
 │   ├── coleta_links_camaras.py    # Busca dos sites das Câmaras
+|   ├── funcao_main.py             # Função generica para ser usada com qualquer string
 │   └── analise_sites_camaras.py   # Raspagem e análise dos sites
 │
-├── data/                          # Arquivos gerados (Excel)
 │
-├── requirements.txt
 └── README.md
